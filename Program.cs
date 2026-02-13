@@ -2,7 +2,6 @@ using AFOAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -17,8 +16,18 @@ builder.Services.AddScoped<RestaurantPickerService>();
 builder.Services.AddScoped<ReverseItAlphanumericService>();
 builder.Services.AddScoped<ReverseItNumbersService>();
 
-var app = builder.Build();
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
 
+var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
@@ -27,6 +36,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Enable CORS
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 

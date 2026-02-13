@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AFOAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae80c5994154676e5a0617bd5e40e91b7c95c908")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e66002b4f50cc6ecbe704ea01ea84893039926")]
 [assembly: System.Reflection.AssemblyProductAttribute("AFOAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AFOAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
