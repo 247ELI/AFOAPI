@@ -1,0 +1,6 @@
+@AFOAPI_HostAddress = http://localhost:5195
+
+GET {{AFOAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
