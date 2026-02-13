@@ -1,0 +1,12 @@
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\AFOAPI.exe
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\AFOAPI.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\AFOAPI.deps.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\AFOAPI.runtimeconfig.json
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\AFOAPI.pdb
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eliasaf\OneDrive\Academy\Season 8 Level 2\Week 5\AFOAPI\bin\Release\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
